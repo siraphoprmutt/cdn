@@ -1,0 +1,108 @@
+{
+    "rmut": {
+        "logo": {
+            "download": "https://drive.google.com/drive/folders/1psOIABjclDthJpiXeBn-wMNH-nK5gsow",
+            "data": [
+                {
+                    "id": "rmuti",
+                    "name": {
+                        "short": "RMUTI",
+                        "th": "มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน",
+                        "en": "Rajamangala University of Technology Isan"
+                    },
+                    "description": "rmuti",
+                    "image": "https://siraphoprmutt.github.io/assets/images/rmut/RMUTI.png",
+                    "web": "https://rmuti.ac.th/"
+                },
+                {
+                    "id": "rmutk",
+                    "name": {
+                        "short": "RMUTK",
+                        "th": "มหาวิทยาลัยเทคโนโลยีราชมงคลกรุงเทพ",
+                        "en": "Rajamangala University of Technology Krung Thep"
+                    },
+                    "description": "rmutk",
+                    "image": "https://siraphoprmutt.github.io/assets/images/rmut/RMUTK.png",
+                    "web": "https://www.rmutk.ac.th/"
+                },
+                {
+                    "id": "rmutl",
+                    "name": {
+                        "short": "RMUTL",
+                        "th": "มหาวิทยาลัยเทคโนโลยีราชมงคลล้านนา",
+                        "en": "Rajamangala University of Technology Lanna"
+                    },
+                    "description": "rmutl",
+                    "image": "https://siraphoprmutt.github.io/assets/images/rmut/RMUTL.png",
+                    "web": "https://rmutl.ac.th/"
+                },
+                {
+                    "id": "rmutp",
+                    "name": {
+                        "short": "RMUTP",
+                        "th": "มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร",
+                        "en": "Rajamangala University of Technology Phra Nakhon"
+                    },
+                    "description": "rmutp",
+                    "image": "https://siraphoprmutt.github.io/assets/images/rmut/RMUTP.png",
+                    "web": "https://rmutp.ac.th/"
+                },
+                {
+                    "id": "rmutr",
+                    "name": {
+                        "short": "RMUTR",
+                        "th": "มหาวิทยาลัยเทคโนโลยีราชมงคลรัตนโกสินทร์",
+                        "en": "Rajamangala University of Technology Rattanakosin"
+                    },
+                    "description": "rmutr",
+                    "image": "https://siraphoprmutt.github.io/assets/images/rmut/RMUTR.png",
+                    "web": "https://rmutr.ac.th/"
+                },
+                {
+                    "id": "rmutsb",
+                    "name": {
+                        "short": "RMUTSB",
+                        "th": "มหาวิทยาลัยเทคโนโลยีราชมงคลสุวรรณภูมิ",
+                        "en": "Rajamangala University of Technology Suvarnabhumi"
+                    },
+                    "description": "rmutsb",
+                    "image": "https://siraphoprmutt.github.io/assets/images/rmut/RMUTSB.png",
+                    "web": "https://rmutsb.ac.th/"
+                },
+                {
+                    "id": "rmutsv",
+                    "name": {
+                        "short": "RMUTSV",
+                        "th": "มหาวิทยาลัยเทคโนโลยีราชมงคลศรีวิชัย",
+                        "en": "Rajamangala University of Technology Srivijaya"
+                    },
+                    "description": "rmutsv",
+                    "image": "https://siraphoprmutt.github.io/assets/images/rmut/RMUTSV.png",
+                    "web": "https://rmutsv.ac.th/"
+                },
+                {
+                    "id": "rmutt",
+                    "name": {
+                        "short": "RMUTT",
+                        "th": "มหาวิทยาลัยเทคโนโลยีราชมงคลธัญบุรี",
+                        "en": "Rajamangala University of Technology Thanyaburi"
+                    },
+                    "description": "rmutt",
+                    "image": "https://siraphoprmutt.github.io/assets/images/rmut/RMUTT.png",
+                    "web": "https://rmutt.ac.th/"
+                },
+                {
+                    "id": "rmutto",
+                    "name": {
+                        "short": "RMUTTO",
+                        "th": "มหาวิทยาลัยเทคโนโลยีราชมงคลตะวันออก",
+                        "en": "Rajamangala University of Technology Tawan-Ok"
+                    },
+                    "description": "rmutto",
+                    "image": "https://siraphoprmutt.github.io/assets/images/rmut/RMUTTO.png",
+                    "web": "https://rmutto.ac.th/"
+                }
+            ]
+        }
+    }
+}
