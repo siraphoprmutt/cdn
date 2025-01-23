@@ -1,7 +1,16 @@
 {
     "rmut": {
         "logo": {
-            "download": "https://drive.google.com/drive/folders/1psOIABjclDthJpiXeBn-wMNH-nK5gsow",
+            "download": [
+                {
+                    "name": "googledrive",
+                    "url": "https://drive.google.com/drive/folders/1psOIABjclDthJpiXeBn-wMNH-nK5gsow"
+                },
+                {
+                    "name": "figma",
+                    "url": "https://www.figma.com/design/UWFWHWtzyUPKojFvCnVuUB/rmutt?node-id=0-1&t=f37BXZTh71onBvZr-1"
+                }
+            ],
             "data": [
                 {
                     "id": "rmuti",
